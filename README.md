@@ -1,6 +1,6 @@
-# newsapp
-
-A new Flutter project.
+# newsapp using Api newsapi.org
+ ![Screenshot_20210311_231010_com example news_app](https://user-images.githubusercontent.com/60475330/110855542-2bcaaf80-82bf-11eb-94af-2a37eeda19e8.jpg)
+![Screenshot_20210311_231016_com example news_app](https://user-images.githubusercontent.com/60475330/110855552-2ec5a000-82bf-11eb-916c-1d4a128eab27.jpg)
 
 ## Getting Started
 
